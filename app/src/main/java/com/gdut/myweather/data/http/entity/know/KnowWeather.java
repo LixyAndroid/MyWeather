@@ -3,7 +3,7 @@ package com.gdut.myweather.data.http.entity.know;
 import java.util.List;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         2016/12/10
  */
 public class KnowWeather {

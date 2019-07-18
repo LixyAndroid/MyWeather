@@ -17,7 +17,7 @@ import com.gdut.myweather.data.db.entities.HotCity;
 /**
  * City表操作类
  *
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         16/3/13
  */
 public class CityDao {

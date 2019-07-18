@@ -5,7 +5,7 @@ import android.content.Context;
 import okhttp3.OkHttpClient;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         2017/7/25
  */
 public interface StethoHelper {

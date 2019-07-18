@@ -1,7 +1,7 @@
 package com.gdut.myweather.data;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         2017/7/6
  */
 public class WeatherDetail {

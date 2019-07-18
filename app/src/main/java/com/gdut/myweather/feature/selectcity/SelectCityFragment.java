@@ -25,7 +25,7 @@ import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  */
 public class SelectCityFragment extends BaseFragment implements SelectCityContract.View {
 

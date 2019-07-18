@@ -7,7 +7,7 @@ import com.gdut.myweather.base.BasePresenter;
 import com.gdut.myweather.base.BaseView;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  */
 public interface SelectCityContract {
 

@@ -35,7 +35,7 @@ import butterknife.ButterKnife;
 /**
  * 首页
  *
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  */
 public class MainActivity extends BaseActivity
         implements HomePageFragment.OnFragmentInteractionListener, DrawerMenuFragment.OnSelectCity {

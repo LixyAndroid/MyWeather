@@ -8,7 +8,7 @@ import java.io.InvalidClassException;
 import java.util.List;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         16/4/16
  */
 public interface DrawerContract {

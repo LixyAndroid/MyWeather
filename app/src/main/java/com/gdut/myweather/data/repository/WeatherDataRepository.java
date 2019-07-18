@@ -22,7 +22,7 @@ import rx.exceptions.Exceptions;
 import rx.schedulers.Schedulers;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         2016/12/10
  */
 public class WeatherDataRepository {

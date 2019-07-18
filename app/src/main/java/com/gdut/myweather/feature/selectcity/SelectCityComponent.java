@@ -6,7 +6,7 @@ import com.gdut.myweather.di.scope.ActivityScoped;
 import dagger.Component;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         2016/11/30
  */
 @ActivityScoped

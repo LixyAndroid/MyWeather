@@ -14,7 +14,7 @@ import java.util.List;
 
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         2017/7/5
  */
 public class CloudWeatherAdapter extends WeatherAdapter {

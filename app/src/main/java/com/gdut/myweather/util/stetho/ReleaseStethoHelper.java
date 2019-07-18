@@ -7,7 +7,7 @@ import com.gdut.myweather.util.StethoHelper;
 import okhttp3.OkHttpClient;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         2017/7/25
  */
 public class ReleaseStethoHelper implements StethoHelper {

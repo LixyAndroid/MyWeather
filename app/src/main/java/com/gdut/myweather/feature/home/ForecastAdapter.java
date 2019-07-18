@@ -19,7 +19,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         16/6/23
  */
 public class ForecastAdapter extends BaseRecyclerViewAdapter<ForecastAdapter.ViewHolder> {

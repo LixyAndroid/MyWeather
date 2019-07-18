@@ -9,7 +9,7 @@ import com.gdut.myweather.data.db.entities.minimalist.WeatherLive;
 import java.util.List;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         16/2/25
  */
 public abstract class WeatherAdapter {

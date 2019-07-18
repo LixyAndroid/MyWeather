@@ -20,7 +20,7 @@ import java.util.concurrent.Callable;
 import javax.inject.Inject;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         16/3/14
  */
 public class WeatherDao {

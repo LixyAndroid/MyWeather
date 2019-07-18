@@ -1,7 +1,7 @@
 package com.gdut.myweather.data.http;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         16/3/8
  */
 public final class ApiConstants {

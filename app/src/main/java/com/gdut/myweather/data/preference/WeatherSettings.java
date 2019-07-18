@@ -1,7 +1,7 @@
 package com.gdut.myweather.data.preference;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  */
 public enum WeatherSettings {
 

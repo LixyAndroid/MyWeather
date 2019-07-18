@@ -9,7 +9,7 @@ import retrofit2.http.Path;
 import rx.Observable;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         2017/2/16
  */
 public interface EnvironmentCloudWeatherService {

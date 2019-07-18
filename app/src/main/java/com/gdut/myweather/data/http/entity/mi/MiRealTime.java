@@ -3,7 +3,7 @@ package com.gdut.myweather.data.http.entity.mi;
 import com.alibaba.fastjson.annotation.JSONField;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         16/2/25
  */
 public class MiRealTime {

@@ -17,7 +17,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         2016/07/06
  */
 public class DetailAdapter extends BaseRecyclerViewAdapter<DetailAdapter.ViewHolder> {

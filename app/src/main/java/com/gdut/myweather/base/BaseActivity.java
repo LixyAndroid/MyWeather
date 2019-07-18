@@ -9,7 +9,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  */
 public class BaseActivity extends AppCompatActivity {
 

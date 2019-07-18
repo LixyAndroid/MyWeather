@@ -1,7 +1,7 @@
 package com.gdut.myweather.data.http.entity.mi;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         16/2/25
  */
 public class MiToday {

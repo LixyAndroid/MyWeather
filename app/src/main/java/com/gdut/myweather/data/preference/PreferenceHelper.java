@@ -15,7 +15,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         16/2/6
  */
 public final class PreferenceHelper {

@@ -14,7 +14,7 @@ import com.gdut.myweather.di.component.DaggerApplicationComponent;
 import com.gdut.myweather.di.module.ApplicationModule;
 
 /**
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         16/2/4
  */
 public class WeatherApplication extends Application {

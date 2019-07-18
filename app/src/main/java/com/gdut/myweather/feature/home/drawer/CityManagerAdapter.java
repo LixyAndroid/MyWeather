@@ -21,7 +21,7 @@ import butterknife.ButterKnife;
 /**
  * 城市管理页面Adapter
  *
- * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author Mloong
  *         16/3/16
  */
 public class CityManagerAdapter extends BaseRecyclerViewAdapter<CityManagerAdapter.ViewHolder> {
