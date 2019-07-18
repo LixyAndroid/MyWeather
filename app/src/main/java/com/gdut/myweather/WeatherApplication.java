@@ -50,7 +50,7 @@ public class WeatherApplication extends Application {
                 .build();
 
         //初始化Stetho
-   //     BuildConfig.STETHO.init(this.getApplicationContext());
+        BuildConfig.STETHO.init(this.getApplicationContext());
 
         weatherApplicationInstance = this;
 

@@ -50,7 +50,7 @@ public final class ApiClient {
             httpLoggingInterceptor.setLevel(HttpLoggingInterceptor.Level.BODY);
             builder.addInterceptor(httpLoggingInterceptor);
 //           builder.addNetworkInterceptor(new StethoInterceptor());
-     //       BuildConfig.STETHO.addNetworkInterceptor(builder);
+            BuildConfig.STETHO.addNetworkInterceptor(builder);
         }
         OkHttpClient client = builder.build();
 
