@@ -10,7 +10,7 @@ import dagger.Component;
 import com.gdut.myweather.feature.home.HomePagePresenter;
 
 /**
- * @author 张磊 (baron[dot]zhanglei[at]gmail[dot]com)
+ * @author @author Mloong (baron[dot]zhanglei[at]gmail[dot]com)
  *         2016/12/2
  */
 @Singleton

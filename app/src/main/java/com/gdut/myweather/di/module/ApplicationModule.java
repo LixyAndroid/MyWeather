@@ -10,7 +10,7 @@ import dagger.Module;
 import dagger.Provides;
 
 /**
- * @author 张磊 (baronzhang[at]anjuke[dot]com)
+ *
  *         2016/11/30
  */
 @Module

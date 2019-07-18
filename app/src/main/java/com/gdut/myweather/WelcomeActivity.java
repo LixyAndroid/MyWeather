@@ -17,7 +17,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
 /**
- * @author Mloong
+ * @author Mloong  测试as与github同步
  */
 public class WelcomeActivity extends BaseActivity {
 
